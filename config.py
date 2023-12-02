@@ -8,5 +8,5 @@ class Config(object):
       API_HASH = "079b22308db2fd2c40789ed65e50f042"
       CAPTION_POSITION = "bottom"
       ADMIN_USERNAME = "@hellohoneybunnyy"
-      ADMIN_ID = 956022686 
+      ADMIN_ID = 5443081541 
       DB_URL = "postgres://nmeeirqa:CkgMOWflErlquDUqF-vhsAQw7DqXhLf2@mouse.db.elephantsql.com/nmeeirqa"
